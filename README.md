@@ -52,44 +52,6 @@ Backend (Node.js / Django / Flask)
         |
 Database (MongoDB / PostgreSQL)
 
-🧩 Modules
-
-User Module
-
-Registration, Login, Logout
-
-Profile Management
-
-Authentication with JWT
-
-Document Module
-
-Create, Edit, Delete, Share Documents
-
-Access Control (owner, editor, viewer)
-
-Auto-save and versioning
-
-Collaboration Module
-
-Real-time editing via Socket.io
-
-User cursor tracking and color indicators
-
-Conflict resolution handling
-
-Chat Module
-
-In-document group chat
-
-Typing indicators and message notifications
-
-Admin Module (optional)
-
-Manage users and documents
-
-Monitor real-time activity logs
-
 🧪 Future Enhancements
 
 🚧 AI-based writing assistant (grammar & tone suggestions)
