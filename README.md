@@ -60,8 +60,7 @@ Database (MongoDB / PostgreSQL)
 🚧 Offline editing & sync once reconnected
 🚧 End-to-end encryption for enhanced privacy
 
-
+<img width="1890" height="919" alt="Image" src="https://github.com/user-attachments/assets/e63b189f-e927-4a00-8aa3-9ea78eceba22" />
 <img width="1885" height="924" alt="Image" src="https://github.com/user-attachments/assets/b9741a54-fd28-4a1a-bcf2-45497901cd31" />
 <img width="1887" height="923" alt="Image" src="https://github.com/user-attachments/assets/34645c73-f67d-4222-8f11-c075567a4e47" />
 <img width="1631" height="856" alt="Image" src="https://github.com/user-attachments/assets/25315a56-1832-40ef-a3ec-2270b900db3e" />
-<img width="1890" height="919" alt="Image" src="https://github.com/user-attachments/assets/e63b189f-e927-4a00-8aa3-9ea78eceba22" />
